@@ -7,10 +7,10 @@
 - <b>[Desenvolvimento e Execução de Malware para Acesso Remoto](https://github.com/Dogit0mg/Desenvolvimento-e-Execucao-de-Malware-para-Acesso-Remoto)</b>
 - <b>TEM QUE ADICIONAR AINDA !!!!!!!!!!</b>
 <h2>📚 Certificados:</h2>
-- <b>Google Cybersecurity Certificate<br/></b>
-- <b>Comptia Security + (SY0 -701)<br/></b>
-- <b>Real World Ethical Hacking: Hands-on Cibersecurity (Udemy)<br/></b>
-- <b>Microsoft AZ-900<br/></b>
+- <a href="https://coursera.org/share/c561444499c7f312a5c9144b4d020a80" target="_blank"><b>Google Cibersecurity Certificate </b></a><br/>
+- <a href="https://www.credly.com/badges/62dc0bba-e80c-4303-9cac-b56d692d1bbe/linked_in_profile" target="_blank"><b>Comptia Security + (SY0-701) </b></a><br/>
+- <a href="https://www.udemy.com/certificate/UC-5e24180f-9b78-4bd0-887c-bee32bb626e6/" target="_blank"><b>Real World Ethical Hacking: Hands-on Cybersecurity</b></a><br/>
+- <a href="https://learn.microsoft.com/pt-br/users/douglasaquino-0368/transcript/7olrlcwwy5p41yx?tab=credentials-tab&source=docs" target="_blank"><b>Microsoft AZ-900</b></a><br/>
 
 <h2>💻 Linkedin:</h2>
 
