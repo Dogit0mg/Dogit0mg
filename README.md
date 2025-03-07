@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projetos de Cybersecurity:</h2>
 
 - <b>[Laboratório pessoal para prática de segurança ofensiva](https://github.com/Dogit0mg/Laboratorio-pessoal) (penetration testing)</b>
-- <b>Coleta e Análise de Informações com OSINT</b>
+- <b>[Coleta e Análise de Informações com OSINT](https://github.com/Dogit0mg/Coleta-e-analise-de-informacoes-com-OSINT)</b>
 - <b>Desenvolvimento e Execução de Malware para Acesso Remoto</b>
 - <b>TEM QUE ADICIONAR AINDA !!!!!!!!!!</b>
 <h2>📚 Certificados:</h2>
